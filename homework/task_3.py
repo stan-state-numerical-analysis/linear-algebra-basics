@@ -109,7 +109,7 @@
 
 
 
-    # 23. Apply forward subsitution with the correct matrix and vector.
+    # 23. Apply forward substitution with the correct matrix and vector.
     # Call the output y.
 
 
